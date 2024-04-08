@@ -1,0 +1,55 @@
+problem,algorithm,noise_source,n_qaoa_layers,fidelity
+Max-cut,QAOA,Depolarizing,1,0.933203574755607
+Max-cut,QAOA,Depolarizing,2,0.8691222033946506
+Max-cut,QAOA,Depolarizing,3,0.8122127530598007
+Max-cut,QAOA,Thermal Relaxation,1,0.8927985516214608
+Max-cut,QAOA,Thermal Relaxation,2,0.7951955671905442
+Max-cut,QAOA,Thermal Relaxation,3,0.6604152001982595
+Max-cut,QAOA,Both,1,0.8354538576920495
+Max-cut,QAOA,Both,2,0.7007432458136377
+Max-cut,QAOA,Both,3,0.5595779567696371
+Max-cut,WSQAOA,Depolarizing,1,0.9381927411881906
+Max-cut,WSQAOA,Depolarizing,2,0.8811966509658866
+Max-cut,WSQAOA,Depolarizing,3,0.8282931327485666
+Max-cut,WSQAOA,Thermal Relaxation,1,0.9074631897663353
+Max-cut,WSQAOA,Thermal Relaxation,2,0.8241133083651115
+Max-cut,WSQAOA,Thermal Relaxation,3,0.7194614731923225
+Max-cut,WSQAOA,Both,1,0.8527720824761368
+Max-cut,WSQAOA,Both,2,0.7337106248791181
+Max-cut,WSQAOA,Both,3,0.6121606953537135
+Max-cut,WS-Init-QAOA,Depolarizing,1,0.9348988826508897
+Max-cut,WS-Init-QAOA,Depolarizing,2,0.8739278996575067
+Max-cut,WS-Init-QAOA,Depolarizing,3,0.8193309988606967
+Max-cut,WS-Init-QAOA,Thermal Relaxation,1,0.8973891641273197
+Max-cut,WS-Init-QAOA,Thermal Relaxation,2,0.8059162375861141
+Max-cut,WS-Init-QAOA,Thermal Relaxation,3,0.6882702978275205
+Max-cut,WS-Init-QAOA,Both,1,0.8413100940492325
+Max-cut,WS-Init-QAOA,Both,2,0.7131198737516213
+Max-cut,WS-Init-QAOA,Both,3,0.5798450278367968
+Partition,QAOA,Depolarizing,1,0.873962536304528
+Partition,QAOA,Depolarizing,2,0.7628524164647721
+Partition,QAOA,Depolarizing,3,0.6695803366719828
+Partition,QAOA,Thermal Relaxation,1,0.813821531177316
+Partition,QAOA,Thermal Relaxation,2,0.5538750297037237
+Partition,QAOA,Thermal Relaxation,3,0.2411871389283482
+Partition,QAOA,Both,1,0.7186524706441286
+Partition,QAOA,Both,2,0.461021775906086
+Partition,QAOA,Both,3,0.20244715672703217
+Partition,WSQAOA,Depolarizing,1,0.8807571604330966
+Partition,WSQAOA,Depolarizing,2,0.7783662328810387
+Partition,WSQAOA,Depolarizing,3,0.6875654003617607
+Partition,WSQAOA,Thermal Relaxation,1,0.8315307345006625
+Partition,WSQAOA,Thermal Relaxation,2,0.5833333019246361
+Partition,WSQAOA,Thermal Relaxation,3,0.3075035886692494
+Partition,WSQAOA,Both,1,0.7396794342425165
+Partition,WSQAOA,Both,2,0.4901310765778383
+Partition,WSQAOA,Both,3,0.2510672840305106
+Partition,WS-Init-QAOA,Depolarizing,1,0.8773087447903053
+Partition,WS-Init-QAOA,Depolarizing,2,0.7697148097995474
+Partition,WS-Init-QAOA,Depolarizing,3,0.6779424337794864
+Partition,WS-Init-QAOA,Thermal Relaxation,1,0.8231000534493286
+Partition,WS-Init-QAOA,Thermal Relaxation,2,0.5711880682745637
+Partition,WS-Init-QAOA,Thermal Relaxation,3,0.27318771715245493
+Partition,WS-Init-QAOA,Both,1,0.7294168705672168
+Partition,WS-Init-QAOA,Both,2,0.47601747666707617
+Partition,WS-Init-QAOA,Both,3,0.22200860127343688
