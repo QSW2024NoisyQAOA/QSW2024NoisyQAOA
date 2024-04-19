@@ -111,10 +111,8 @@ class Model:
             raise ValueError("Model type 'ideal' does not support noise")
         if type == "ideal" and nSamples is not None:
             raise ValueError("Model type 'ideal' does not support nSamples")
-        if type == "ideal" and sx:
-            raise ValueError(
-                "RZ-SX-RZ-SX-RZ transpilation unnecessary in the ideal case"
-            )
+        if type == "ideal":
+            sx = False
         if type == "ideal" and readout != 0.0:
             raise ValueError("Readout error only supported for noisy models")
         if type != "ideal" and noise is None:
